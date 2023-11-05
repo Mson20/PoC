@@ -10,4 +10,4 @@ Pour utiliser ce système d'arrosage écologique il faut réaliser ces étapes.
 
 4 ème étape : Télécharger le code sur Arduino en branchant les 2 cartes.
 
-5 ème étape : Observez le résultat.
+5 ème étape : Patientez et observez le résultat.
